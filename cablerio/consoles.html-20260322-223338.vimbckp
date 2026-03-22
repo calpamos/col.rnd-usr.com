@@ -113,7 +113,7 @@ mod power, saturn psu
 power adapter 3A
 official grey controller
 cable av v-sync ntsc
-everdrive
+everdrive	
 
 ==== dreamcast gd-rom (pal)
 official controller
@@ -176,7 +176,6 @@ official remote (black) + nunchuck
 official supernintendo controller (supernintendo mini)
 official nes controller (nes mini)
 official gamecube controller (purple)
-official composite cable rvl-009
 official s-video cable rvl-010
 official component cable rvl-011
 official euroconector cable rvl-013
